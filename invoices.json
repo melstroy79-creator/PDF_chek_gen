@@ -1,0 +1,23 @@
+[
+  {
+    "invoice_id": "INV-2001",
+    "date": "2026-10-05",
+    "customer": "ООО «ТехноСервис»",
+    "email": "billing@technoservice.ru",
+    "items": [
+      { "name": "Сервер 1U", "qty": 1, "price": 210000 },
+      { "name": "SSD 1TB", "qty": 4, "price": 12000 },
+      { "name": "Монтаж и настройка", "qty": 1, "price": 30000 }
+    ]
+  },
+  {
+    "invoice_id": "INV-2002",
+    "date": "2026-10-06",
+    "customer": "ООО «Типография Плюс»",
+    "email": "info@tipografiya.ru",
+    "items": [
+      { "name": "Печать буклетов", "qty": 500, "price": 35 },
+      { "name": "Ламинация", "qty": 500, "price": 8 }
+    ]
+  }
+]
